@@ -34,7 +34,7 @@
   	<link rel="apple-touch-icon" href="apple-touch-icon-114x114-precomposed.png">
 
 	<!-- Grab Google CDN's jQuery, with a protocol relative URL -->
-  	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+  	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
 
 	<!-- fall back to local if offline -->
   	<script>window.jQuery || document.write('<script src="<?php echo js_path('jquery/jquery.min.js'); ?>">\x3C/script>')</script>
